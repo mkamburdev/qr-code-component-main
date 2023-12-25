@@ -30,5 +30,5 @@ There is also a `style-guide.md` file containing the information you'll need, su
 ### Links
 
 - Solution URL: [URL here]()
-- Live Site URL: [URL here]()
+- Live Site URL: [URL here](https://mkamburdev.github.io/qr-code-component-main/)
 
