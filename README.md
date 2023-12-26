@@ -22,11 +22,11 @@ You will find all the required assets in the `/images` folder. The assets are al
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
 ### Screenshot
-![]()
+![](/images/qr-code-component-main-desktop.png)
 
 
 ### Links
 
-- Solution URL: [URL here]()
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/qr-code-component-31AK7l8MyP)
 - Live Site URL: [URL here](https://mkamburdev.github.io/qr-code-component-main/)
 
